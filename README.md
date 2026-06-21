@@ -108,3 +108,8 @@ Si quieres correr el programa de verificación automatizada que testea que las r
    ```bash
    java -cp "bin;lib/*" integrado.prog2.TestBusinessRules
    ```
+
+---
+
+## Repositorio remoto
+Link del repositorio en github: https://github.com/agusC77/Trabajo_Integrador_Programacion_2.git
